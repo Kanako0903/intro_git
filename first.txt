@@ -2,3 +2,6 @@
 二行目
 3行目
 4行目
+git add 
+git commit
+git rm
